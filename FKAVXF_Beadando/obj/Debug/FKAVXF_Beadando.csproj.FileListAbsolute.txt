@@ -1,0 +1,13 @@
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando\FKAVXF_Beadando\bin\Debug\FKAVXF_Beadando.exe.config
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando\FKAVXF_Beadando\bin\Debug\FKAVXF_Beadando.exe
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando\FKAVXF_Beadando\bin\Debug\FKAVXF_Beadando.pdb
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.csprojResolveAssemblyReference.cache
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.exe
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.pdb
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\bin\Debug\FKAVXF_Beadando.exe.config
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\bin\Debug\FKAVXF_Beadando.exe
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\bin\Debug\FKAVXF_Beadando.pdb
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.csprojAssemblyReference.cache
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.csproj.CoreCompileInputs.cache
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.exe
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando\FKAVXF_Beadando\obj\Debug\FKAVXF_Beadando.pdb
